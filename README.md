@@ -19,7 +19,7 @@ Install quill-design from this repo https://github.com/deriv-com/quill-icons.
     npm ci
 ```
 
-## .env file
+## Environment Variables
 
 **Setup .env file**
 
