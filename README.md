@@ -11,7 +11,7 @@
 
 ## Installation
 
-Install quill-design from this repo https://github.com/deriv-com/quill-icons. 
+Install quill-icon from this repo https://github.com/deriv-com/quill-icons. 
   
 **Install your dependencies**
 
